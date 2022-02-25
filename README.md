@@ -89,7 +89,7 @@ enter the data:2
 1-continue,0-exit1                                                                                   
 enter the data:3                                                                                
 1-continue,0-exit1                                                                                    
-enter the data:4tor command: WQ                                                                      
+                                                                    
 1-continue,0-exit1
 enter the data:5
 1-continue,0-exit1
