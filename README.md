@@ -78,18 +78,18 @@ int main()
 
 
 OUTPUT:
-operations on simple queue are                                                                        43,14         77%
-1.insert                                                                                              44,1          79%
-2.delete                                                                                              45,7-14       81%
-3.display                                                                                             46,19-26      83%
-enter your choice:18C                                                                                 47,2-9        85%
-enter the data:1                                                                                      48,12-26      87%
-1-continue,0-exit1                                                                                    49,2-9        89%
-enter the data:2                                                                                      50,1          91%
-1-continue,0-exit1                                                                                    51,10         93%
-enter the data:3                                                                                      52,1          95%
-1-continue,0-exit1                                                                                    53,14-21      97%
-enter the data:4tor command: WQ                                                                       54,16-23      Bot
+operations on simple queue are                                                                      
+1.insert                                                                                          
+2.delete                                                                                             
+3.display                                                                                            
+enter your choice:18C                                                                             
+enter the data:1                                                                                  
+1-continue,0-exit1                                                                                
+enter the data:2                                                                                     
+1-continue,0-exit1                                                                                   
+enter the data:3                                                                                
+1-continue,0-exit1                                                                                    
+enter the data:4tor command: WQ                                                                      
 1-continue,0-exit1
 enter the data:5
 1-continue,0-exit1
